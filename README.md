@@ -1,3 +1,5 @@
+[![PushTrain build](http://dev-playground-003.swiftengine.io:89/badge/sedevops/VaporHelloWorld/23.svg)](https://github.com/sedevops/VaporHelloWorld) [![Managed by PushTrain](http://dev-playground-003.swiftengine.io:89/badge-text/managed_by-PushTrain-F17E43.svg)](https://swiftengine.io)
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/1342803/36623515-7293b4ec-18d3-11e8-85ab-4e2f8fb38fbd.png" width="320" alt="API Template">
     <br>
